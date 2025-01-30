@@ -1,8 +1,4 @@
-# Plant-Disease-Detection-System-for-Sustainable-Agriculture
-Sure, here's a comprehensive README file for your GitHub project:
-
----
-
+------
 # Plant Disease Detection System for Sustainable Agriculture 🌱🚀
 
 This project aims to empower farmers with an AI-driven tool for early and accurate plant disease detection. By leveraging advanced machine learning techniques and the Streamlit framework, this system provides real-time disease diagnosis and actionable treatment recommendations to promote sustainable farming practices.
